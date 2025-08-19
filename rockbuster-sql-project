@@ -1,0 +1,11 @@
+# Rockbuster SQL Analysis
+
+This repository contains SQL queries developed for the Rockbuster Stealth project (Achievement 3 & 4).  
+The goal of this project was to analyze customer behavior, identify top markets, and provide insights for the company’s global streaming service launch.  
+
+## Dataset
+The data comes from Rockbuster’s relational database, which includes information on customers, rentals, payments, and films.  
+
+## Contents
+- `queries/`: SQL queries for customer and revenue insights.  
+- `results/`: Query outputs in CSV format.
